@@ -73,7 +73,7 @@ function linkTo_UnCryptMailto( s )
 				<header id="header" class="5grid-layout">
 					<div class="row">
 						<div class="12u">
-							<h1><a href="[% make_uri('index.html') %]" class="mobileUI-site-name"><img src="[% make_uri_info('images', 'SwissPerlLogoBW.svg') %]" width="175px" alt="Logo" /> Swiss Perl Workshop 2018</a></h1>
+							<h1><a href="[% make_uri('index.html') %]" class="mobileUI-site-name"><img src="[% make_uri_info('images', 'SwissPerlLogo.svg') %]" width="85px" alt="Logo" /> Swiss Perl Workshop 2018</a></h1>
 							<social id="social">
 								<a target="_blank" href="http://www.facebook.com/swissperlworkshop"><img src="[% make_uri_info('images', 'facebook.png') %]" alt="Facebook" /></a>
 								<a target="_blank" href="https://www.xing.com/events/swiss-perl-workshop-2017-1822847"><img src="[% make_uri_info('images', 'xing.png') %]" alt="Xing" /></a>
